@@ -1,0 +1,14 @@
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\bin\Debug\net7.0\GestionBiblioteca.exe
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\bin\Debug\net7.0\GestionBiblioteca.deps.json
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\bin\Debug\net7.0\GestionBiblioteca.runtimeconfig.json
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\bin\Debug\net7.0\GestionBiblioteca.dll
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\bin\Debug\net7.0\GestionBiblioteca.pdb
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\GestionBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\GestionBiblioteca.AssemblyInfoInputs.cache
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\GestionBiblioteca.AssemblyInfo.cs
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\GestionBiblioteca.csproj.CoreCompileInputs.cache
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\GestionBiblioteca.dll
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\refint\GestionBiblioteca.dll
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\GestionBiblioteca.pdb
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\GestionBiblioteca.genruntimeconfig.cache
+D:\Documentos\Desarrollo\Docencia\HerramientasIII\Taller3\GestionBiblioteca\obj\Debug\net7.0\ref\GestionBiblioteca.dll
