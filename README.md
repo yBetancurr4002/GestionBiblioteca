@@ -1,2 +1,1 @@
-# GestionBiblioteca
- Taller de programación orientada a objetos
+# Gestión Biblioteca -  Taller de programación orientada a objetos
