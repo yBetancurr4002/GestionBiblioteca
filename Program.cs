@@ -11,9 +11,9 @@ miBiblioteca.AgregarUsuario("Remi");
 
 miBiblioteca.PrestarLibro("Satanás", "Yeison Betancur");
 miBiblioteca.PrestarLibro("Satanás", "Remi");
+miBiblioteca.MostrarCatalogo();
 
 miBiblioteca.DevolverLibro("Satanás");
-miBiblioteca.MostrarCatalogo();
 
 miBiblioteca.PrestarLibro("Satanás", "Remi");
 

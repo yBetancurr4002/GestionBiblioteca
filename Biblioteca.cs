@@ -10,8 +10,7 @@ public class Biblioteca : IBiblioteca
     {
         LibrosDisponibles = new Dictionary<string, Libro>();
         Usuarios = new Dictionary<string, Usuario>();
-
-
+    
         Libro primerLibro = new Libro(
             "Amor en los tiempos del cólera",
             "Gabriel García Márquez",
@@ -41,9 +40,11 @@ public class Biblioteca : IBiblioteca
     public void MostrarCatalogo()
     {
         Console.WriteLine("Catálogo de libros disponibles:");
+        
         foreach (var libro in LibrosDisponibles.Values)
         {
-            Console.WriteLine($"Título: {libro.Titulo}, Autor: {libro.Autor}, Año de Publicación: {libro.AñoPublicacion}, Disponible: {libro.Activo}");
+            var estaDisponible = libro.Activo ? "disponible" : "no disponible";
+            Console.WriteLine($"Título: {libro.Titulo}, Autor: {libro.Autor}, Año de Publicación: {libro.AñoPublicacion}, Disponible: {estaDisponible}");
         }
     }
 
